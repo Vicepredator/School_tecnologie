@@ -1,4 +1,4 @@
 # Tecnologie (School subject)
-##Repository for the pload of school projects.
+## Repository for school projects for Tecnologie subject.
 
 Now it's empty.
